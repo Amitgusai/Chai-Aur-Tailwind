@@ -1,0 +1,63 @@
+/* h1 {
+    color: red;
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    position: sticky;
+    top: 100px;
+} */
+
+h1 {
+    color: #f53029;
+    background-color: white;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    word-spacing: 100px;
+}
+
+.box {
+    background-color: blue;
+    height: 5000px;
+    
+}
+
+.grad {
+    height: 5000px;
+    background-color: #ebe815;
+}
+
+h1.class {
+    background-color: #eb1515;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+#class {
+    background-color: rgb(13, 243, 243);
+}
+
+span {
+    background-color: blue;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
